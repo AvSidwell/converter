@@ -1,0 +1,40 @@
+/*input style*/
+.input-style {
+    border-radius: 0.9rem;
+    height: 1.5rem;
+    width: 11rem;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    margin: 0.6rem;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 5%, rgba(0, 212, 255, 1) 100%);
+}
+/*end of input style*/
+/*Calculation style*/
+.cal {
+    border-radius: 0.9rem;
+    height: 1.5rem;
+    width: 11rem;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    margin: 0.6rem;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(55, 52, 106) 0%, rgb(91, 91, 184) 5%, rgb(1, 115, 137) 100%);
+}
+/*End of Calculation style*/
+.con-12 {
+    
+    margin: auto;
+    margin-top: 100px;
+    width: 21.875rem;
+    border: solid 0.125rem;
+    border-radius: 3.125rem;
+    background-color: #9494aa;
+    border-radius: 3.125rem;
+box-shadow:  0.938rem 0.938rem 3.5rem #9494aa,
+             -0.938rem -0.938rem 3.5rem #9494aa;
+}
