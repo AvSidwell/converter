@@ -10,5 +10,5 @@ function calculation() {
     // result = (degrees -32 Math.pow(height / 100, 2)).toFixed(1);
     // document.getElementById("result").innerHTML = (degrees - 32) / 1.8;
 
-    document.getElementById("result").innerHTML = (degrees - 32) / 1.8;
+    document.getElementById("result").innerHTML = (degrees - 32) / 1.8 +  ' °C';
 }

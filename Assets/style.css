@@ -38,3 +38,18 @@
 box-shadow:  0.938rem 0.938rem 3.5rem #9494aa,
              -0.938rem -0.938rem 3.5rem #9494aa;
 }
+
+@media (max-width: 300px) {
+    .con-12 {
+        width: 90% !important;
+    }
+    .con-12 {
+        width: 100% !important;
+        margin: 0px !important;
+    }
+    p {
+        font-size: smaller;
+        margin: 10px;
+        text-decoration: underline;
+    }
+}
